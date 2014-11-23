@@ -52,6 +52,7 @@ boolean nearLocation(Location one, Location two) {
 
 
 void setup() {
+  setupInterrupts();
   Serial.begin(9600);
   GPS.begin(9600);
   // Enable recommended minimum and fix data
