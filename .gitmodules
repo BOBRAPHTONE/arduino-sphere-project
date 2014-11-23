@@ -1,0 +1,6 @@
+[submodule "dependencies/Adafruit-GPS-Library"]
+	path = dependencies/Adafruit-GPS-Library
+	url = https://github.com/adafruit/Adafruit-GPS-Library.git
+[submodule "dependencies/GPRSInterface"]
+	path = dependencies/GPRSInterface
+	url = https://github.com/Seeed-Studio/GPRSInterface.git
